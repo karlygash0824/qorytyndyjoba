@@ -1,0 +1,14 @@
+form label{
+    display:block;
+    margin-bottom:20px;
+  }
+  form input{
+    border:1px solid #ccc;
+    padding:8px 12px;
+    border-radius:7px;
+    width:200px;
+    box-sizing:border-box;  
+  }
+  form input[type="submit"]{
+    background-color:green;
+  }
